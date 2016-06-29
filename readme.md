@@ -1,21 +1,29 @@
-#Weekend Frontend Hackathon
+#Weekend Front-end Hackathon
 
 ###Learn something new and build something cool in a weekend.
 
-Your assignment for this weekend is to learn a new frontend library and build something **cool**. A big part of being a developer is being able to adapt and learn new technologies on your own. Below is a list of libraries that we think are interesting, but feel free to find something completely different (just nothing we've already learned).
+Your assignment for this weekend is to learn a new front-end library and build something **cool**. A big part of being a developer is being able to adapt and learn new technologies on your own. Below is a list of libraries that we think are interesting, but feel free to find something completely different (just nothing we've already learned).
+
+##Getting Started
+
+* Fork and clone this repository
+* Run `npm install` to install dependencies
+  * `npm start` - start the BrowserSync server
+  * `npm run lint:css` - lint CSS
+  * `npm run lint:js` - lint JS
 
 ##Requirements
 
 * Fork and clone this repository
-* Use an external javascript library to create a website of your choice
-* Focus on frontend
+* Use an external JavaScript library to create a website of your choice
+* Focus on front-end
     * Make something visually interesting
     * Make something you'd be proud to show to others
-* commit and push to github frequently 
+* Commit and push to Github frequently 
 
-Don't worry about a backend for this project. Your project will probably just be an HTML file, some CSS, and some JavaScript (no Rails or Node needed).
+Don't worry about a back-end for this project. Your project will probably just be an HTML file, some CSS, and some JavaScript (no Rails or Node needed).
 
-##Front end (Javascript) Libraries
+##Front end (JavaScript) Libraries
 
 | Purpose | Home page | Demos |
 |----|----|----|
@@ -37,8 +45,12 @@ Need more? [http://www.javascripting.com/](http://www.javascripting.com/)
 - Always remember, _"good artists copy, great artists steal."_ Look at other websites and apps that you think are designed well and learn from them. Obviously don't make a direct copy, but derive inspiration from those who design well.
 
 - Check out site websites like:
-  - [adobe kuler](https://kuler.adobe.com/) - to see popular color schemes and figure out what colors go well with each other
+  - [Adobe kuler](https://kuler.adobe.com/) - to see popular color schemes and figure out what colors go well with each other
     - while you are there, learn about the basics of [color theory](http://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437) - it is an __essential__ skill if you want to do front-end design/development  
   - [subtlepatters](http://subtlepatterns.com/), to find cool patterns for your backgrounds  
   - [iconfinder](https://www.iconfinder.com/) - for some good looking icons for your project
   - [behance](https://www.behance.net/search?field=102) - to see what people are designing and what the community thinks
+
+##Bonus
+
+Make more pages and experiment more! Take inspiration from [Jennifer Dewalt](https://jenniferdewalt.com/), an engineer who made 180 different sites in 180 days.
