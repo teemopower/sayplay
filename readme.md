@@ -12,6 +12,15 @@ Your assignment for this weekend is to learn a new front-end library and build s
   * `npm run lint:css` - lint CSS
   * `npm run lint:js` - lint JS
 
+####Optional: Using SASS
+
+* `gem install sass` - install the SASS gem
+* Create a folder called `scss` in the root of the project
+  * Create a `scss` file within this folder, such as `style.scss`
+* Compile the files in the `scss` folder by running `scss scss:css`
+  * `scss` defines the input folder, `css` defines the output folder
+  * Use the `--watch` flag to watch for changes. Example: `scss --watch scss:css`
+
 ##Requirements
 
 * Fork and clone this repository
