@@ -38,13 +38,14 @@ Don't worry about a back-end for this project. Your project will probably just b
 |----|----|----|
 | Drawing / visual | [http://svgjs.com/](http://svgjs.com/) | obvious on homepage |
 | Drawing / visual | [http://paperjs.org/](http://paperjs.org/) | [nyan](http://paperjs.org/examples/nyan-rainbow/), [Other demos](http://paperjs.org/examples) |
+| Visual | [http://oridomi.com/](http://oridomi.com/) | obvious on homepage |
+| Data Visualization | [http://www.chartjs.org/](http://www.chartjs.org/) | obvious on homepage |
 | Data Visualization | [http://d3js.org/](http://d3js.org/) | obvious on homepage |
+| Web Components | [https://vuejs.org/](https://vuejs.org/) | [5 Practical Examples of Vue](http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/) |
 | Physics | [http://wellcaffeinated.net/PhysicsJS/](http://wellcaffeinated.net/PhysicsJS/) | on homepage |
-| 2D | [http://cutjs.org/](http://cutjs.org/) | obvious on homepage |
 | 3D | [http://threejs.org/](http://threejs.org/) | [rubicks cube](https://www.google.com/logos/2014/rubiks/rubiks.html) / [more demos](http://threejs.org/examples/#webgl_kinect) |
 | 2D Game engine | [http://www.html5quintus.com/](http://www.html5quintus.com/) | obvious on site |
 | Voice recognition | [https://www.talater.com/annyang/](https://www.talater.com/annyang/) | homepage is demo |
-| Audio generator / visualization | [https://github.com/jeromeetienne/webaudiox](https://github.com/jeromeetienne/webaudiox) | [visualization](http://jeromeetienne.github.io/webaudiox/examples/analyser2canvas.html), [audio generator](http://jeromeetienne.github.io/webaudiox/examples/jsfx.html) |
 | Typography | [http://letteringjs.com/](http://letteringjs.com/) | links on homepage |
 
 Need more? [http://www.javascripting.com/](http://www.javascripting.com/)
