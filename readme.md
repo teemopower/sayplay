@@ -64,3 +64,9 @@ Need more? [http://www.javascripting.com/](http://www.javascripting.com/)
 ##Bonus
 
 Make more pages and experiment more! Take inspiration from [Jennifer Dewalt](https://jenniferdewalt.com/), an engineer who made 180 different sites in 180 days.
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
