@@ -3,9 +3,47 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  
+  <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.5.0/annyang.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+
   <title>Hello Front-End</title>
 </head>
 <body>
-  <h1>Hello Front-End</h1>
+<div id="body-color">
+  <div class="container">
+
+    <img src="img/record.png" id="record-img">
+    <p id="listening">Listening</p>
+    <p id="now-playing"></p>
+    
+    <div id="news">
+      <ul>
+        <li><a href="">Say " Play Hip Hop ... "</a></li>
+        <li><a href="">Say " Play Pop ... "</a></li>
+        <li><a href="">Say " Play Love Songs ... "</a></li>
+        <li><a href="">Say " Play Relaxing Music ... "</a></li>
+      </ul>
+    </div>
+
+    <audio id="audio-control" src=""></audio>
+
+    <button type="submit" id="play">Play</button>
+    <img src="img/stop-img.png" id="stop">
+
+</div>
+</div>
+<script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>
